@@ -22,6 +22,7 @@ This is a full-stack **Event Management System** built with a **Node.js/Express 
 ### Prerequisites
 1. **Node.js**: Install Node.js from [https://nodejs.org](https://nodejs.org).
 2. **MongoDB**: Install MongoDB locally or use a cloud service like MongoDB Atlas.
+3. Use the command npm install -g node-modules in command prompt after going to frontend directory for working of the frontend.
 
 ### Backend Setup
 1. Navigate to the `backend` folder:
